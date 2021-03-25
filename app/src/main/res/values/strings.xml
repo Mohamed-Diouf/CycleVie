@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CycleVie</string>
+    <string name="titlt_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notiifications">Notifications</string>
+    <string name="str_test">Test</string>
+</resources>
